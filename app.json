@@ -1,0 +1,17 @@
+{
+  "name": "RN App Boilerplate",
+  "displayName": "App of inputting, displaying and storing user information",
+  "expo": {
+    "name": "RNAppBoilberplate",
+    "slug": "rn-boilberplate",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
